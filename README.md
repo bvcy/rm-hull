@@ -1,0 +1,2 @@
+# rm-hull
+Python module to drive a SSD1306 / SSD1309 / SSD1322 / SSD1325 / SSD1327 / SSD1331 / SSD1351 / SH1106 OLED
